@@ -7,9 +7,9 @@ math = false                          # enable KaTeX (https://katex.org/) global
 googleAnalytics = ""                  # add your tracking id
 
 [params]
-author = "Olivier Roques"
-description = "A simple monospaced resume theme for Hugo."
-favicon = "favicon.svg"                                    # path to a .ico to use as favicon
+author = "Chainbound"
+description = "Chainbound is a research and development organization building optimized infrastructure and networking tools for blockchains"
+favicon = "favicon.svg"                                                                                                                      # path to a .ico to use as favicon
 [params.footer]
 text = "Hugo theme by Olivier Roques"
 url = "https://github.com/ojroques/hugo-researcher"
