@@ -1,10 +1,10 @@
 title = "Chainbound"
-baseURL = "https://chainbound.io"
+baseURL = "https://www.chainbound.io"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-math = false                        # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""                # add your tracking id
+math = false                          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""                  # add your tracking id
 
 [params]
 author = "Olivier Roques"
