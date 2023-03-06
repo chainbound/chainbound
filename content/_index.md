@@ -6,7 +6,7 @@ title = "About"
 Chainbound is a research and development organization building optimized infrastructure and networking tools for blockchains.
 
 ## Projects
-* [Apollo](https://github.com/chainbound/apollo): cross-chain ETL tool for EVM chaindata
+* [Apollo](https://chainbound.github.io/apollo-docs/): cross-chain ETL tool for EVM chaindata
 * [Fiber](https://fiber.chainbound.io/): global high speed network for Ethereum transactions and blocks
 
 ## Writings
