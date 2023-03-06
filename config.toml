@@ -10,6 +10,7 @@ googleAnalytics = ""                  # add your tracking id
 author = "Chainbound"
 description = "Chainbound is a research and development organization building optimized infrastructure and networking tools for blockchains"
 favicon = "favicon.svg"                                                                                                                      # path to a .ico to use as favicon
+logo = "favicon.svg"
 # [params.footer]
 # text = "Hugo theme by Olivier Roques"
 # url = "https://github.com/ojroques/hugo-researcher"
