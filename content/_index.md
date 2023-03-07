@@ -2,6 +2,8 @@
 title = "About"
 +++
 
+![](/logo.svg)
+
 ## About
 Chainbound is a research and development organization building optimized infrastructure and networking tools for blockchains.
 
