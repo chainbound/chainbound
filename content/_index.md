@@ -16,3 +16,6 @@ Chainbound is a research and development organization building optimized infrast
 * [Identifying hotspots on the Ethereum p2p network](https://fiber.chainbound.io/blog/ethereum-hotspots)
 * [Diving into the Reth p2p stack](https://fiber.chainbound.io/blog/reth-p2p)
 * [Fiber vs. Bloxroute: The Standoff](https://fiber.chainbound.io/blog/fiber-vs-bloxroute)
+
+
+Join [here](https://discord.gg/d4e7BnBR) our Discord!
