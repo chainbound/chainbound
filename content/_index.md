@@ -9,7 +9,7 @@ Chainbound is a research and development organization building optimized infrast
 
 ## Projects
 * [Fiber](https://fiber.chainbound.io/): Global high speed network for Ethereum transactions and blocks
-* [Echo](https://echo.chainbound.io/): Unified interface for fast transaction dispatch to Ethereum block builders
+* [Echo](https://echo.chainbound.io/): Unified interface for transaction dispatch to block builders
 * [Apollo](https://chainbound.github.io/apollo-docs/): Cross-chain ETL tool for EVM chaindata
 
 ## Writings
