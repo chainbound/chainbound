@@ -16,10 +16,7 @@ Chainbound is a research and development organization building optimized infrast
 * [Apollo](https://chainbound.github.io/apollo-docs/): Cross-chain ETL tool for EVM chaindata
 
 ## Writings
-* [Introducing Echo: The Comprehensive Builder API](https://echo.chainbound.io/blog/introducing-echo)
-* [Identifying hotspots on the Ethereum p2p network](https://fiber.chainbound.io/blog/ethereum-hotspots)
-* [Diving into the Reth p2p stack](https://fiber.chainbound.io/blog/reth-p2p)
-* [Fiber vs. Bloxroute: The Standoff](https://fiber.chainbound.io/blog/fiber-vs-bloxroute)
+Research portal at [research.chainbound.io](research.chainbound.io)
 
 
 Join [here](https://discord.gg/Q8xAsuCVrT) our Discord!
