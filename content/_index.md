@@ -18,6 +18,5 @@ Chainbound is a research and development organization building optimized infrast
 ## Writings
 Research portal at [research.chainbound.io](https://research.chainbound.io/)\
 \
-\
 Join [here](https://discord.gg/Q8xAsuCVrT) our Discord!
 
