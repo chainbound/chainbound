@@ -16,8 +16,8 @@ Chainbound is a research and development organization building optimized infrast
 * [Apollo](https://chainbound.github.io/apollo-docs/): Cross-chain ETL tool for EVM chaindata
 
 ## Writings
-Research portal at [research.chainbound.io](research.chainbound.io)
-
-
+Research portal at [research.chainbound.io](https://research.chainbound.io/)
+  
+  
 Join [here](https://discord.gg/Q8xAsuCVrT) our Discord!
 
