@@ -14,7 +14,7 @@ Chainbound is a research and development organization building optimized infrast
 
 ## Open-Source Projects
 * [Ulisse](https://chainbound.grafana.net/public-dashboards/d001850804e1454fa24852c9dd82db97): Ethereum P2P network topology explorer
-* [Apollo](https://chainbound.github.io/bolt-docs/): Cross-chain ETL tool for EVM chaindata
+* [Apollo](https://chainbound.github.io/apollo-docs/): Cross-chain ETL tool for EVM chaindata
 
 ## Writings
 Research portal at [research.chainbound.io](https://research.chainbound.io/)\
