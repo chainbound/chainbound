@@ -10,10 +10,10 @@ Chainbound is a research and development organization building optimized infrast
 ## Projects
 * [Fiber](https://fiber.chainbound.io/): Global high speed network for Ethereum transactions and blocks
 * [Echo](https://echo.chainbound.io/): Unified interface for transaction dispatch to block builders
-* [Bolt](https://chainbound.github.io/bolt-docs/) (soft-release): Protocol to enable trustless pre-confirmations on Ethereum
+* [Bolt](https://chainbound.github.io/bolt-docs/) [soft-release]: Protocol to enable trustless pre-confirmations on Ethereum
 
 ## Open-Source Projects
-* [Ulisse](https://chainbound.grafana.net/public-dashboards/b39ed764b36548a2a74024eab3de2fe3): Ethereum P2P network topology explorer
+* [Ulisse](https://chainbound.grafana.net/public-dashboards/d001850804e1454fa24852c9dd82db97): Ethereum P2P network topology explorer
 * [Apollo](https://chainbound.github.io/bolt-docs/): Cross-chain ETL tool for EVM chaindata
 
 ## Writings
